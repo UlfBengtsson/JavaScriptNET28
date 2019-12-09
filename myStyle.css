@@ -1,0 +1,15 @@
+.blackBox {
+  background-color: black;
+  color: white;
+}
+.whiteBox {
+  background-color: white;
+  color: black;
+}
+.divBox {
+  width: 100px;
+  height: 100px;
+  float: left;
+  font-size: 90px;
+  text-align: center;
+}
